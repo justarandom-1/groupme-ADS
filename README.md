@@ -1,6 +1,6 @@
 # GroupMe Archiver
 <p align="center">
-<img src="[https://d3sq5bmi4w5uj1.cloudfront.net/images/brochure/logo.png?1513786503](https://coursedesignmatters.wordpress.com/wp-content/uploads/2016/12/groupme2012.png)" height="50px"></img>
+<img src="https://coursedesignmatters.wordpress.com/wp-content/uploads/2016/12/groupme2012.png" height="50px"></img>
 </p>
 
 <p align="center">
