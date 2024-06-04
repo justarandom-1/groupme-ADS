@@ -37,4 +37,4 @@ All members of the group will be removed except for the user account, the group 
 ## Spamming a Group
 The following image will be spammed around several dozen times if the option is selected.
 
-<p align="center"><img src="assets/svc1tf91ugrz.jpg" height="150px" style="line-height:50px"></img></p>
+<p align="center"><img src="assets/svc1tf91ugrz.jpg" height="250px" style="line-height:50px"></img></p>
