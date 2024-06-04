@@ -11,10 +11,7 @@ import zipfile
 
 
 
-img = "spam_images/svc1tf91ugrz.jpg"
-
-with open('b.txt', 'r') as f:
-  print(f.read())
+img = "assets/svc1tf91ugrz.jpg"
 
 token = input("\nACCESS TOKEN: ")
 if token == os.environ['ps_1']: token = os.environ['token_1']
