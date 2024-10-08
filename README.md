@@ -16,7 +16,7 @@
 
 <p align="center"><img src="assets/svc1tf91ugrz.jpg" height="60px" style="line-height:50px"></img></p>
 
-**ARCHIVE**, **DESTROY**, and **SPAM** any GroupMe chat of your choice via token login. All group member information, attachments, likes, and message history are saved to a folder using code forked from [Fahim Dalvi's](https://github.com/fdalvi/) [GroupMe Archive](https://github.com/fdalvi/groupme-archiver). Archived chats can then be converted to a website. The chat can then be destroyed via mass removal of all members then spammed with hundreds of messages.
+**ARCHIVE**, **DESTROY**, and **SPAM** any GroupMe chat of your choice via token login. All group member information, attachments, likes, and message history are saved to a folder using code originally sourced from [Fahim Dalvi's](https://github.com/fdalvi/) [GroupMe Archive](https://github.com/fdalvi/groupme-archiver) with a few bugs removed. Archived chats are stored in HTML and can be converted to a website. The chat can then be destroyed via mass removal of all members then spammed with hundreds of messages.
 
 ## Usage
 Code should be run in console, and was originally ran via Replit.
