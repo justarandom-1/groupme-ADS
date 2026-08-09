@@ -4,8 +4,8 @@
 
 <p align="center"><img src="https://openclipart.org/image/800px/svg_to_png/211761/matt-icons_go-down.png" height="40px" style="line-height:50px"></img></p>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/320px-JSON_vector_logo.svg.png" height="50px"></img> 
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" height="50px"></img>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/3840px-JSON_vector_logo.svg.png" height="50px"></img> 
+                  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="50px"></img>
 </p>
 
 <p align="center"><img src="https://openclipart.org/image/800px/svg_to_png/211761/matt-icons_go-down.png" height="40px" style="line-height:50px"></img></p>
