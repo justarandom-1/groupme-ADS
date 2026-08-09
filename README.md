@@ -21,7 +21,7 @@
 ## Usage
 Code should be run in console, and was originally ran via Replit.
 
-You will also need a token from GroupMe through which the script will access your data. You can get this token after you log in to https://dev.groupme.com (using your normal GroupMe credentials). The token is accessible by clicking **Access token** in the header. 
+You will also need a token from GroupMe through which the script will access your data. You can get this token after you log in to https://dev.groupme.com (using your normal GroupMe credentials). The token is accessible by clicking your profile image in the header. 
 
 This will open a directory of chats that can be selected via entering in an index.
 
